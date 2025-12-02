@@ -1,9 +1,11 @@
-**Library Book Management System**
-Description
+# Library Book Management System
+
+## Description
 
 This program is a simple Library Book Management System created using Python and Object-Oriented Programming (OOP). It allows users to add books, borrow books, return books, and display all books along with their availability status.
 
-Features
+
+### Features
 
 Add a book (title, author, publication year)
 
@@ -15,19 +17,15 @@ Display all books and show if they are available or not
 
 Uses a Book class with OOP concepts such as attributes and methods
 
-OOP Concepts Used
+Includes try and except to handle invalid user inputs
 
-Class and Objects
+Allows adding multiple books
 
-Encapsulation
+Shows only available books when borrowing
 
-Methods inside a class
+Shows only borrowed books when returning
 
-Attributes
-
-List of objects
-
-Methods in Class Book
+### Methods in Class Book
 
 borrow_book() – marks a book as unavailable
 
@@ -37,7 +35,9 @@ display_info() – prints all book information
 
 is_available() – returns True/False
 
-Menu Options
+
+
+### Menu Options
 
 1 – Add Book
 
@@ -49,14 +49,3 @@ Menu Options
 
 5 – Exit
 
-Notes
-
-Includes try and except to handle invalid user inputs
-
-Allows adding multiple books
-
-Shows only available books when borrowing
-
-Shows only borrowed books when returning
-
-Easy to understand for beginners
