@@ -1,4 +1,4 @@
-![2a662da6-60b3-4be4-8414-3ce2c31913f4](https://github.com/user-attachments/assets/3b0c4d09-58bd-401c-a6ef-8aff4b2534ab)# Library Book Management System
+# Library Book Management System
 
 ## Description
 
@@ -50,9 +50,11 @@ is_available() – returns True/False
 5 – Exit
 
 ### Results:
-![a2c958ec-0e7e-4e4b-b04d-1fe766ae60c9](https://github.com/user-attachments/assets/ca8a118b-e59e-4b3c-9d30-57b4a8cef089)
-![Uploading 01f098ee-d06b-4a07-8c0f-3cb61083b46b.jpg…]()
-![20a75e23-ef4c-4e84-a376-e6fd98899fca](https://github.com/user-attachments/assets/e73b868e-3546-4ffd-8c9a-2ec8eec8805f)
-![a3b4a0b4-be7c-4393-8bcc-7df44a8cd7af](https://github.com/user-attachments/assets/8db7a2b8-95d2-42a7-b8eb-446347a8d84d)
-![75c5334e-b4dd-43cb-b134-16521366bec4](https://github.com/user-attachments/assets/283b3c79-121a-4692-9f1e-6b88eff1a04c)
-![ac61e254-412b-4f3f-8376-47b8cea6da8e](https://github.com/user-attachments/assets/4cbaa6a0-5145-4c30-9061-eb7361ff2fc9)
+
+![a2c958ec-0e7e-4e4b-b04d-1fe766ae60c9](https://github.com/user-attachments/assets/61f84548-4023-40a5-868f-05af8b495772)
+![2a662da6-60b3-4be4-8414-3ce2c31913f4](https://github.com/user-attachments/assets/f65df25b-bd30-4dab-8c41-f4f0155fe6e5)
+![01f098ee-d06b-4a07-8c0f-3cb61083b46b](https://github.com/user-attachments/assets/f69d6fb0-e757-4819-b78d-00361dff072e)
+![20a75e23-ef4c-4e84-a376-e6fd98899fca](https://github.com/user-attachments/assets/28e45f48-791c-41ef-ae9b-1df491e51658)
+![a3b4a0b4-be7c-4393-8bcc-7df44a8cd7af](https://github.com/user-attachments/assets/84961912-e44c-4627-967c-caae8fec89e5)
+![75c5334e-b4dd-43cb-b134-16521366bec4](https://github.com/user-attachments/assets/b4a8fedf-953b-49dc-8a9e-48766fff9070)
+![ac61e254-412b-4f3f-8376-47b8cea6da8e](https://github.com/user-attachments/assets/8e2d9400-4d66-4285-881e-e19497d9f333)
